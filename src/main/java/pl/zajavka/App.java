@@ -9,5 +9,6 @@ public class App {
         System.out.println("dupa sraka");
         System.out.println("dupa sraka");
         System.out.println("dupa sraka");
+        System.out.println("dupa sraka");
     }
 }
